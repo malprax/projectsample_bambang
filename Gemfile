@@ -78,3 +78,5 @@ group :development, :test do
   gem 'spring'
 end
 
+#baterai as10b5e acer 4820t
+
