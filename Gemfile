@@ -69,6 +69,9 @@ gem 'stripe'
 #server
 gem 'puma'
 
+#monitoring
+gem 'newrelic_rpm'
+
 
 
 group :development, :test do
